@@ -13,8 +13,7 @@
       <change beforePath="$PROJECT_DIR$/../OOP Animal Kingdom)/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP Animal Kingdom)/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../OOP Animal Kingdom)/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP Animal Kingdom)/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../OOP Animal Kingdom)/OOP.py" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP Animal Kingdom)/OOP.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exchange_rate.json" beforeDir="false" afterPath="$PROJECT_DIR$/exchange_rate.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run_exchange_oop_json.py" beforeDir="false" afterPath="$PROJECT_DIR$/run_exchange_oop_json.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../name_main_in_python/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../name_main_in_python/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../name_main_in_python/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../name_main_in_python/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -29,26 +28,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/exchange_rate.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="232">
-              <caret line="26" column="18" lean-forward="true" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/exchange_oop_json.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="10" column="34" lean-forward="true" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+            <state relative-caret-position="168">
+              <caret line="8" column="18" lean-forward="true" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/exchange_oop_json.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="20" column="36" lean-forward="true" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/run_exchange_oop_json.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="6" column="34" lean-forward="true" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
+            <state relative-caret-position="168">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
@@ -71,16 +70,7 @@
         <option value="$PROJECT_DIR$/exchange_rate.json" />
         <option value="$PROJECT_DIR$/exchange_oop_json.py" />
         <option value="$PROJECT_DIR$/run_exchange_oop_json.py" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/json_with_OOP_exchange_rates.iml" />
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/.idea/misc.xml" />
-        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+        <option value="$PROJECT_DIR$/testingtesting.py" />
       </list>
     </option>
   </component>
@@ -110,6 +100,9 @@
       </pane>
     </panes>
   </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -122,7 +115,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.testingtesting">
     <configuration name="run_exchange_oop_json" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="json_with_OOP_exchange_rates" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -144,8 +137,30 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="testingtesting" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="json_with_OOP_exchange_rates" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testingtesting.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.testingtesting" />
         <item itemvalue="Python.run_exchange_oop_json" />
       </list>
     </recent_temporary>
@@ -196,22 +211,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/exchange_rate.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="26" column="18" lean-forward="true" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
+        <state relative-caret-position="168">
+          <caret line="8" column="18" lean-forward="true" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/exchange_oop_json.py">
+    <entry file="file://$PROJECT_DIR$/testingtesting.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="10" column="34" lean-forward="true" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+        <state relative-caret-position="147">
+          <caret line="7" column="20" lean-forward="true" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/run_exchange_oop_json.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="6" column="34" lean-forward="true" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
+        <state relative-caret-position="168">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exchange_oop_json.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="20" column="36" lean-forward="true" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
         </state>
       </provider>
     </entry>
